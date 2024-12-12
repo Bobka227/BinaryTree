@@ -1,20 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package AbstrTable;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-/**
- *
- * @author 38067
- */
-/**
- *
- * @author 38067
- */
+
 public class AbstrTable<K extends Comparable<K>, V> implements IAbstrTable<K, V> {
 
     public class Node<K, V> {

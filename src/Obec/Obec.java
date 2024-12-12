@@ -1,13 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Obec;
 
-/**
- *
- * @author 38067
- */
 public class Obec implements Comparable<Obec>{
     private String nazevObce;
     private int PSC;

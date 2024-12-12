@@ -1,15 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
- */
+
 package Lists;
 
 import java.util.Iterator;
 
-/**
- *
- * @author 38067
- */
 public interface IAbstrDoubleList <T> {
     
     void zrus();
